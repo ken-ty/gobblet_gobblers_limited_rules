@@ -1,0 +1,2 @@
+# gobblet_gobblers_limited_rules
+ゴブレットゴブラーズの解析。Sサイズ駒をなくした制限ルールで全状態を列挙する。
